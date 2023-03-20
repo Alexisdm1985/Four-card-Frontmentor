@@ -27,7 +27,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontmentor](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
 
 
 ### Built with
