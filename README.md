@@ -9,8 +9,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 - [Links](#links)
 - [Built with](#built-with)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontmentor](https://your-solution-url.com)
+- Solution URL: [Frontmentor]https://www.frontendmentor.io/solutions/four-card-section-using-css-flexboxgrid-Q9my1IMtSg)
 - Live URL: [Github Pages](https://alexisdm1985.github.io/Four-card-Frontmentor/)
 
 
